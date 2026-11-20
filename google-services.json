@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028479814116",
+    "project_id": "poolcarapp-a03d2",
+    "storage_bucket": "poolcarapp-a03d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028479814116:android:951a1477de7606ce399ff1",
+        "android_client_info": {
+          "package_name": "poolcarapp.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASuHBNd3O4GXF5H4grEDmkmNqRzkkCP7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
